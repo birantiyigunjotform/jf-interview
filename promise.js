@@ -2,7 +2,7 @@
   1. What is printed on the console for a+b+c?
   2. How long does it take?
   3. How can we reduce opertaion time by half without changing setTimeout duration?
-  4. How do you improve the code?
+  4. BONUS: How do you improve the code?
 */
 
 const fetchResult = value => new Promise((resolve, reject) => {
