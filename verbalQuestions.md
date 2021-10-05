@@ -15,3 +15,6 @@
     - Network requests, crashes, logs, native logs, webview etc
 # Have you ever write tests?
 # Have you ever used CI/CD?
+# Can you talk about redux or any other state management libraries?
+    - what is the purpose of redux-thunk/saga?
+# Comment on any backend technologies and services? Firebase, AWS amplify, PHP, nodejs etc

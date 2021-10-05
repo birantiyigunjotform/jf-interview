@@ -1,7 +1,7 @@
 /* 
     1. Open https://snack.expo.dev/
-    2. Fetch pokemons on App startup and display them
-    3. 
+    2. Fetch pokemons on App startup
+    3. Display name of the pokemons
 */
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
